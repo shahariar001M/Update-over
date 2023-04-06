@@ -38,7 +38,7 @@ Assalamu alaykum,  This is a tools of update random cloning.
 
        python over.py
 
-[ Note : This tools are best in Sms Boombing tools. You can bomb a lot of sms by the amount of just 1.So enjoy it to use. ]
+[ Note : This tools are updated random id cloning tools.So enjoy it to use. ]
 
 <p align="center"><img src="https://j.top4top.io/p_26529m4r70.jpg">
 
